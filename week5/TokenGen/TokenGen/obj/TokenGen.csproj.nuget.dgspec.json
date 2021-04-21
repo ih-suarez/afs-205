@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/spawn/bryan-university/afs-205/TokenGen/TokenGen/TokenGen.csproj": {}
+    "/Users/spawn/bryan-university/afs-205/week5/TokenGen/TokenGen/TokenGen.csproj": {}
   },
   "projects": {
-    "/Users/spawn/bryan-university/afs-205/TokenGen/TokenGen/TokenGen.csproj": {
+    "/Users/spawn/bryan-university/afs-205/week5/TokenGen/TokenGen/TokenGen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/spawn/bryan-university/afs-205/TokenGen/TokenGen/TokenGen.csproj",
+        "projectUniqueName": "/Users/spawn/bryan-university/afs-205/week5/TokenGen/TokenGen/TokenGen.csproj",
         "projectName": "TokenGen",
-        "projectPath": "/Users/spawn/bryan-university/afs-205/TokenGen/TokenGen/TokenGen.csproj",
+        "projectPath": "/Users/spawn/bryan-university/afs-205/week5/TokenGen/TokenGen/TokenGen.csproj",
         "packagesPath": "/Users/spawn/.nuget/packages/",
-        "outputPath": "/Users/spawn/bryan-university/afs-205/TokenGen/TokenGen/obj/",
+        "outputPath": "/Users/spawn/bryan-university/afs-205/week5/TokenGen/TokenGen/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/spawn/.config/NuGet/NuGet.Config"

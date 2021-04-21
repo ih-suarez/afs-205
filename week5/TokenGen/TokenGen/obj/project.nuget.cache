@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YvBpuDPJuYxXCkm404P4eVFelw6E8tbyvfvUfVECJn3a3fzqVc/PPd5IbxllIu0CEmJRwC9j0/viFNyPAPwGhA==",
+  "dgSpecHash": "81YCZoi+HB3fSl7uNhTG0tW768408xksMsI8Vfy4oo5UiZhtkkNQPIPjLLB9ASnfQ6tgMBLi5LlOui9uASlRBw==",
   "success": true,
-  "projectFilePath": "/Users/spawn/bryan-university/afs-205/TokenGen/TokenGen/TokenGen.csproj",
+  "projectFilePath": "/Users/spawn/bryan-university/afs-205/week5/TokenGen/TokenGen/TokenGen.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
